@@ -1,0 +1,7 @@
+{
+    "users" : [
+        {"id" : 1, "name" : "John Doe", "userName" : "John", "email" : "John12@gmail.com", "age": 22},
+        {"id" : 2, "name" : "Tony Stark", "userName" : "Tony", "email" : "Tony12@gmail.com", "age": 24},
+        {"id" : 1, "name" : "Peter Park", "userName" : "Peter", "email" : "Peter12@gmail.com", "age": 26}
+    ]
+}
