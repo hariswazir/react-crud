@@ -1,7 +1,47 @@
 {
-    "users" : [
-        {"id" : 1, "name" : "John Doe", "userName" : "John", "email" : "John12@gmail.com", "age": 22},
-        {"id" : 2, "name" : "Tony Stark", "userName" : "Tony", "email" : "Tony12@gmail.com", "age": 24},
-        {"id" : 1, "name" : "Peter Park", "userName" : "Peter", "email" : "Peter12@gmail.com", "age": 26}
-    ]
+  "users": [
+    {
+      "name": "Tony Stark",
+      "username": "Tony",
+      "email": "Tony12@gmail.com",
+      "age": 25,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Peter Park",
+      "username": "Peter",
+      "email": "Peter12@gmail.com",
+      "age": 26
+    },
+    {
+      "name": "abrahim linken",
+      "username": "abrahim",
+      "email": "abrahim12@gmail.com",
+      "age": 28,
+      "id": "qg0u2JBxNco"
+    },
+    {
+      "name": "test",
+      "username": "tests",
+      "email": "test12@gmail.com",
+      "age": 13,
+      "id": "WhSMW0qOdVA"
+    },
+    {
+      "name": "dfnmgm,df",
+      "username": "sdjfnjksdn",
+      "email": "sdjksjk@gmail.com",
+      "age": 23,
+      "id": "BFpEnWMYBWg"
+    },
+    {
+      "name": "test2",
+      "username": "teat",
+      "email": "test2@hackta.com",
+      "age": 45,
+      "id": "3KlpXjc-l6c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
